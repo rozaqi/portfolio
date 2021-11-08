@@ -1,3 +1,5 @@
-![banner](/public/static/images/twitter-card.jpg)
+# Portfolio Utama
 
-# David Levai's Digital Garden
+https://rozaqi.co
+
+Design by [Dávid Lévai](https://github.com/DLevai94) & [Timothy](https://github.com/timlrx)
